@@ -22,7 +22,7 @@ RovoSurvivorは職業訓練にて、4名チームで共同製作した3Dアク�
 
 ## サンプルゲーム
 ぜひゲームを体験してみてください！  
-[RoboSurvivorサンプル](http://)
+[RoboSurvivorサンプル]([http://](https://dynarise2001.xyz/kunren/sample/robosurvivor_alpha/))
 
 ## ゲームフロー
 * タイトル  
@@ -203,4 +203,5 @@ SourceTreeでブランチを分けてコンクリフト衝突がおこらない�
   
 
 ![ヘリのイメージ映像](readme_img/future_image.png)  
+
 
